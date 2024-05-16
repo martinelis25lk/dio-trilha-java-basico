@@ -4,5 +4,6 @@ public class ContaTerminal {
         System.out.println("hello world");
 
         System.out.println("teste");
+        System.out.println("aaa");
     }
 }
